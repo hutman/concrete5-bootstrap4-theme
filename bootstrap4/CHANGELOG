@@ -1,0 +1,20 @@
+*** Remember to clear the c5 cache before applying updates !!!
+
+1.0.0 Initial Release
+1.0.3 Add article page type and template
+1.0.4 Add thumbnail page attribute
+1.0.5 Add Latest Insights block type
+1.0.6 Change article_abstract from text to textarea
+1.0.7 Add FormSubmission entity
+1.0.8 Add Exclude Sub Pages from Nav and Article Category attributes
+1.0.9 Add Insights & Research Single Page
+1.0.10 Add Insights List block type
+1.0.11 Add Callout Section to Insights List block and article_subtitle page attribute
+1.0.12 Add Footer Stack
+1.0.13 db.xml update
+1.0.15 Adding Related Insights block and attributes to be used by it
+1.0.16 POV Signup block type
+1.0.17 Replace Article Byline page attribute with Article Author and add Article Guest (byline attribute must be removed manually)
+1.0.18 Made POV Signup block title, body, and button text configurable
+
+*** Remember to clear the c5 cache before applying updates !!!
